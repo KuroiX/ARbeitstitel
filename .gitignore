@@ -68,7 +68,3 @@ Assets/Plugins/Editor/JetBrains*
 
 # Visual Studio Code configuration
 .vscode/
-
-# too big to fail... that's why it fails everytime you try to push this file
-BelARgerung/Assets/Editor/Migration/com.ptc.vuforia.engine-10.7.2.tgz
-BelARgerung/Assets/Editor/Migration/com.ptc.vuforia.engine-10.7.2.tgz.meta
