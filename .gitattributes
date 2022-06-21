@@ -1,0 +1,7 @@
+BelARgerung/Assets/Editor/Migration/com.ptc.vuforia.engine-10.7.2.tgz filter=lfs diff=lfs merge=lfs -text
+BelARgerung/Library/PackageCache/com.ptc.vuforia.engine@4681e13faf59/Vuforia/Plugins/OSXUniversal/universal/VuforiaEngine.bundle/Contents/MacOS/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+BelARgerung/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+BelARgerung/Library/PackageCache/com.ptc.vuforia.engine@4681e13faf59/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+BelARgerung/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+BelARgerung/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+
