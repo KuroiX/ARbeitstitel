@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "4681e13faf59",
+        "mtime": 1655403377987,
+        "size": 234825116,
+        "localPath": "C:\\Users\\felix\\Documents\\TUM\\SS-8\\AR\\Repo\\ARbeitstitel\\BelARgerung\\Packages\\com.ptc.vuforia.engine-10.7.2.tgz"
+      }
+    }
+  }
+}
